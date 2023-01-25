@@ -4,6 +4,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
@@ -21,6 +22,15 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 - Ruby
+
+
+### Key Features <a name="key-features"></a>
+
+- **Decode Morse Code into ASCII characters**
+- **Understand Ruby built-in methods**
+- **Understand Ruby syntax**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
