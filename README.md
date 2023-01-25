@@ -15,7 +15,7 @@ Before starting the steps below, be sure you have [Git](https://www.linode.com/d
 
 1. clone the repository
 ```sh
-git clone https://github.com/cynthiainga/Decode-morse-message
+git clone git@github.com:Kweeka1/morse-code.git
 ```
 2. Go inside directory 
 ```sh
