@@ -2,7 +2,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#readme-top)
   - [🛠 Built With](#built-with)
   - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
