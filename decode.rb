@@ -31,8 +31,13 @@ def decode_morse(str)
   result = ""
   input = str.split("   ")
   input.each do |code|
-
+  word = ""
+    code.split(" ").each do |letter|
+      word += MORSE_CODE[letter]
+    end
+    result += word + " "
   end
+  return result.strip()
 end
 
 puts decode_morse(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
