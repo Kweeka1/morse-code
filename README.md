@@ -13,7 +13,7 @@
 To get a copy of this project locally you need to run these commands in your terminal.
 Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/).
 
-1. clone the repository
+1. Clone the repository
 ```sh
 git clone git@github.com:Kweeka1/morse-code.git
 ```
