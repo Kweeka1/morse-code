@@ -1,4 +1,4 @@
-# Decoder Morse Message
+# Morse code decoder
 
 ## Description
 
